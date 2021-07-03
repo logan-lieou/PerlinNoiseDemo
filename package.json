@@ -1,5 +1,6 @@
 {
   "name": "svelte-app",
+  "hostname": "https://logan-lieou.github.io/PerlinNoiseDemo/",
   "version": "1.0.0",
   "private": true,
   "scripts": {
